@@ -3,10 +3,6 @@
 ## **Project Overview**  
 This project aims to predict Autism Spectrum Disorder (ASD) using machine learning techniques. Early detection is crucial for timely intervention, and this model utilizes behavioral assessment data to classify individuals as either at risk or not at risk of ASD.  
 
-## **Team Members**  
-- **Deepak S L** - 22011101029  
-- **Hemanth A S** - 22011101040  
-
 ## **Dataset Description**  
 The dataset contains information on individuals, including their responses to the Autism Spectrum Quotient (AQ-10) screening tool and other relevant features.  
 
