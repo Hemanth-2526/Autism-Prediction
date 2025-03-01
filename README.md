@@ -5,7 +5,8 @@ This project aims to predict Autism Spectrum Disorder (ASD) using machine learni
 
 ## **Dataset Description**  
 The dataset contains information on individuals, including their responses to the Autism Spectrum Quotient (AQ-10) screening tool and other relevant features.  
-
+To download dataset:
+>>kaggle competitions download -c autismdiagnosis
 ### **Key Features**  
 - **A1_Score - A10_Score**: Scores from the AQ-10 screening test  
 - **Age**: Age of the patient  
